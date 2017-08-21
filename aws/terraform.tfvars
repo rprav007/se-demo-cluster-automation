@@ -37,9 +37,9 @@
   "tectonic_kube_apiserver_service_ip": "10.3.0.1",
   "tectonic_kube_dns_service_ip": "10.3.0.10",
   "tectonic_kube_etcd_service_ip": "10.3.0.15",
-  "tectonic_license_path": "./license.txt",
+  "tectonic_license_path": "../licenses/tectonic-license.txt",
   "tectonic_master_count": 2,
-  "tectonic_pull_secret_path": "./pull_secret.json",
+  "tectonic_pull_secret_path": "../licenses/config.json",
   "tectonic_service_cidr": "10.3.0.0/16",
   "tectonic_worker_count": 4
 }
